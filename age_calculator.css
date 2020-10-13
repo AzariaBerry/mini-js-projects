@@ -1,0 +1,32 @@
+body{
+    background:cyan;
+    color:purple;
+}
+
+.title{
+    text-align: center;
+    
+}
+
+#birthyear{
+    text-align:center;
+    font-size: X-large;
+}
+
+.title2{
+    text-align:center;
+    font-size: X-large;
+}
+
+#year{
+    text-align:center;
+    font-size: X-large;
+}
+
+.congrats{
+    text-align:center;
+}
+
+#age{
+    font-size: X-large;
+}
